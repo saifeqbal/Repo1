@@ -145,4 +145,4 @@ fun PlayerHomeBox(name: String, color: Color) {
     ) {
         Text(text = name, color = Color.White, fontWeight = FontWeight.Bold)
     }
-}
+} 
